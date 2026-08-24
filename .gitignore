@@ -1,0 +1,14 @@
+# Data & Spark artifacts (generated locally; never commit data)
+data/
+warehouse/
+spark-warehouse/
+*.parquet
+_SUCCESS
+.crc
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.DS_Store
